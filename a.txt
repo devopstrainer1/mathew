@@ -4,3 +4,6 @@ learning git
 some changes
 
 larn
+
+
+stashing
